@@ -1,102 +1,111 @@
 "use client";
 
 import Image from "next/image";
-import { motion } from "framer-motion";
 import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
 import { FadeIn } from "@/components/ui/FadeIn";
 import { PRODUCT_URL, PRODUCT_NAME, formatPrice } from "@/lib/config";
-import { guide3dMockup } from "@/lib/images";
+import { livre3dDebout } from "@/lib/images";
 
 export function OfferSection() {
   const guaranteeBullets = [
-    "Format numérique compatible smartphone, tablette & ordinateur",
-    "Méthode visuelle basée sur 100% d'aliments africains locaux",
-    "Téléchargement instantané dès confirmation de paiement",
-    "Accès sécurisé et disponible à vie",
+    "La méthode visuelle de composition de l’assiette (½ - ¼ - ¼)",
+    "Fiches complètes sur les aliments locaux (igname, manioc, plantain, fonio, etc.)",
+    "15 recettes concrètes : petits-déjeuners, déjeuners, dîners et collations",
+    "Conseils pratiques pour les repas au maquis, au travail et en fête",
+    "Liste de courses intelligente (version éco et standard)",
+    "Lecture immédiate sur smartphone (PDF haute définition téléchargeable)",
   ];
 
   return (
     <section id="offre" className="bg-cream py-16 sm:py-20 md:py-24 border-b border-neutral-200/60">
-      <Container>
+      <Container width="narrow">
         <FadeIn>
-          <div className="max-w-4xl mx-auto bg-white rounded-3xl p-6 sm:p-10 md:p-12 shadow-xl border-2 border-brand/30 relative overflow-hidden">
-            {/* Badge promo */}
-            <div className="absolute top-0 right-0 bg-brand text-white text-xs font-bold uppercase tracking-wider px-6 py-2 rounded-bl-2xl shadow-sm">
-              Offre de lancement
-            </div>
+          <div className="rounded-3xl bg-white border-2 border-brand/40 p-6 sm:p-10 shadow-card">
+            <div className="text-center max-w-xl mx-auto space-y-4">
+              <span className="px-3 py-1 rounded-full text-xs font-bold bg-brand/10 text-brand inline-block">
+                OFFRE DE LANCEMENT
+              </span>
 
-            <div className="grid grid-cols-1 md:grid-cols-12 gap-8 md:gap-12 items-center">
-              {/* Visuel du livre en 3D dans l'offre */}
-              <div className="md:col-span-5 flex justify-center">
-                <motion.div
-                  whileHover={{ rotateY: 4, scale: 1.03 }}
-                  transition={{ type: "spring", stiffness: 300, damping: 20 }}
-                  className="relative aspect-[4/3] w-full max-w-[340px] rounded-2xl overflow-hidden shadow-xl border border-neutral-200 bg-neutral-50"
-                  style={{ perspective: 1000 }}
-                >
-                  <Image
-                    src={guide3dMockup.src}
-                    alt={guide3dMockup.alt}
-                    fill
-                    sizes="(max-width: 768px) 80vw, 340px"
-                    className="object-cover"
-                  />
-                </motion.div>
+              <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-bold text-neutral-900 leading-tight">
+                ARRÊTE D’IMPROVISER TES REPAS.
+              </h2>
+
+              <p className="font-display text-lg sm:text-xl font-bold text-brand">
+                COMMENCE À LES ORGANISER.
+              </p>
+
+              <div className="p-4 rounded-2xl bg-cream/70 border border-neutral-200/80 text-xs sm:text-sm text-neutral-700 space-y-1.5 leading-relaxed">
+                <p>Tu n’as pas besoin d’attendre lundi.</p>
+                <p>Tu n’as pas besoin de supprimer toute ta cuisine.</p>
+                <p>Tu n’as pas besoin de chercher encore une nouvelle méthode compliquée.</p>
+                <p className="font-bold text-neutral-900 pt-1">
+                  Commence avec les aliments que tu as déjà. Commence avec ton prochain repas.
+                </p>
               </div>
 
-              {/* Détails de l'offre */}
-              <div className="md:col-span-7 space-y-6 text-center md:text-left">
-                <div className="space-y-2">
-                  <span className="text-xs sm:text-sm font-semibold uppercase tracking-widest text-brand">
-                    Offre Spéciale
-                  </span>
-                  <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-bold text-neutral-900 leading-tight">
+              {/* Présentation du livre et prix */}
+              <div className="py-6 flex flex-col sm:flex-row items-center justify-center gap-6 border-y border-neutral-100">
+                <div className="relative w-36 sm:w-44 aspect-[3/4] rounded-xl overflow-hidden shadow-lg border border-neutral-200/60 bg-neutral-100 flex-shrink-0">
+                  <Image
+                    src={livre3dDebout.src}
+                    alt={livre3dDebout.alt}
+                    fill
+                    sizes="200px"
+                    className="object-cover"
+                  />
+                </div>
+
+                <div className="text-center sm:text-left space-y-2">
+                  <h3 className="font-display font-bold text-lg text-neutral-900">
                     {PRODUCT_NAME}
-                  </h2>
-                </div>
-
-                {/* Prix bien visible */}
-                <div className="p-4 rounded-2xl bg-cream border border-neutral-200/80 inline-block w-full sm:w-auto">
-                  <p className="text-xs font-bold uppercase tracking-wider text-neutral-500">
-                    Prix de lancement
+                  </h3>
+                  <div className="inline-block p-3 rounded-xl bg-brand/10 border border-brand/20">
+                    <p className="text-[11px] font-bold uppercase tracking-wider text-neutral-600">
+                      Prix unique de lancement
+                    </p>
+                    <p className="font-display text-3xl font-extrabold text-brand">
+                      {formatPrice()}
+                    </p>
+                  </div>
+                  <p className="text-xs text-neutral-500">
+                    Accès numérique immédiat après confirmation
                   </p>
-                  <p className="font-display text-3xl sm:text-4xl font-extrabold text-brand mt-0.5">
-                    {formatPrice()}
-                  </p>
                 </div>
+              </div>
 
-                <p className="text-neutral-700 text-sm sm:text-base leading-relaxed">
-                  Tu reçois immédiatement ton guide numérique et tu peux commencer à appliquer la méthode dès aujourd’hui.
+              {/* Inclusions */}
+              <div className="text-left py-2 space-y-2">
+                <p className="text-xs font-bold uppercase tracking-wider text-neutral-400 mb-2">
+                  Ce que tu reçois immédiatement :
                 </p>
-
-                <ul className="space-y-2.5 text-left border-t border-neutral-100 pt-4">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-neutral-700">
                   {guaranteeBullets.map((bullet) => (
-                    <li key={bullet} className="flex items-start gap-2.5 text-xs sm:text-sm text-neutral-700">
-                      <span className="text-brand font-bold mt-0.5 select-none" aria-hidden="true">
-                        ✓
-                      </span>
+                    <div key={bullet} className="flex items-start gap-2">
+                      <span className="text-brand font-bold mt-0.5 select-none">✓</span>
                       <span>{bullet}</span>
-                    </li>
+                    </div>
                   ))}
-                </ul>
-
-                <div className="pt-2 space-y-3">
-                  <Button
-                    href={PRODUCT_URL}
-                    external
-                    size="lg"
-                    variant="primary"
-                    className="w-full text-base sm:text-lg py-4 shadow-lg hover:shadow-xl font-bold"
-                    aria-label="Acheter le guide maintenant sur Chariow"
-                  >
-                    JE VEUX LE GUIDE — {formatPrice()}
-                  </Button>
-
-                  <p className="text-xs text-neutral-500 font-medium text-center md:text-left">
-                    🔒 Paiement sécurisé via Chariow • Accès numérique immédiat
-                  </p>
                 </div>
+              </div>
+
+              {/* Bouton CTA */}
+              <div className="pt-4 space-y-3">
+                <Button
+                  href={PRODUCT_URL}
+                  external
+                  size="lg"
+                  variant="primary"
+                  pulse={true}
+                  className="w-full text-base sm:text-lg py-4 shadow-lg hover:shadow-xl font-extrabold tracking-wide"
+                  aria-label="Acheter le guide maintenant sur Chariow"
+                >
+                  J’ORGANISE MIEUX MES REPAS AUJOURD’HUI — {formatPrice()}
+                </Button>
+
+                <p className="text-xs text-neutral-500 font-medium">
+                  🔒 Paiement et commande sécurisés via Chariow • Accès numérique instantané
+                </p>
               </div>
             </div>
           </div>

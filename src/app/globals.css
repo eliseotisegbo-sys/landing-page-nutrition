@@ -118,10 +118,39 @@ p {
   outline-offset: 3px;
 }
 
-/* ─── Liens ─────────────────────────────────────────────────── */
-a {
+/* ─── Liens textuels ordinaires (ne pas écraser les boutons) ─── */
+a:not([class*="bg-"]):not([class*="btn"]):not([role="button"]) {
   color: var(--color-brand);
   text-underline-offset: 3px;
+}
+
+/* ─── Animation de clignotement / pulsation du bouton CTA ───── */
+@keyframes cta-blink {
+  0%, 100% {
+    box-shadow: 0 4px 14px rgba(58, 107, 74, 0.35);
+  }
+  50% {
+    box-shadow: 0 6px 24px rgba(58, 107, 74, 0.7), 0 0 0 5px rgba(58, 107, 74, 0.25);
+  }
+}
+
+.animate-cta-blink {
+  animation: cta-blink 2s ease-in-out infinite;
+}
+
+/* ─── Animation de flottement et rotation 3D pour le livre ───── */
+@keyframes book-float-3d {
+  0%, 100% {
+    transform: translateY(0px) rotateY(-6deg) rotateX(2deg);
+  }
+  50% {
+    transform: translateY(-12px) rotateY(8deg) rotateX(-2deg);
+  }
+}
+
+.animate-book-3d {
+  animation: book-float-3d 6s ease-in-out infinite;
+  transform-style: preserve-3d;
 }
 
 /* ─── Images ────────────────────────────────────────────────── */

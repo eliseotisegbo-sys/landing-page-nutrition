@@ -1,63 +1,96 @@
 import { Container } from "@/components/ui/Container";
+import { FadeIn } from "@/components/ui/FadeIn";
 
 export function ProblemSection() {
-  const obstacles = [
-    "Le travail.",
-    "Les repas en famille.",
-    "Le maquis.",
-    "Le manque de temps.",
-    "Le budget.",
+  const steps = [
+    "Tu veux mieux manger.",
+    "Tu regardes des conseils sur Internet.",
+    "Tu essaies de supprimer certains aliments.",
+    "Tu changes tes habitudes pendant quelques jours.",
+  ];
+
+  const realities = [
+    "Le travail reprend.",
+    "Les repas en famille reprennent.",
+    "Tu manges au maquis.",
+    "Tu manques de temps.",
+    "Ton budget devient une contrainte.",
   ];
 
   return (
     <section className="bg-cream py-16 sm:py-20 md:py-24 border-b border-neutral-200/60">
       <Container width="narrow">
-        <div className="space-y-8 text-center sm:text-left">
-          {/* Tag */}
-          <div className="text-center">
-            <span className="text-xs sm:text-sm font-semibold uppercase tracking-widest text-brand">
-              Constat du quotidien
+        <FadeIn>
+          <div className="space-y-4 text-center">
+            <span className="text-xs sm:text-sm font-bold uppercase tracking-widest text-brand">
+              Comprendre la réalité de nos journées
             </span>
-            <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-bold text-neutral-900 mt-2 leading-tight">
-              ET SI LE PROBLÈME N’ÉTAIT PAS CE QUE TU MANGES ?
+            <h2 className="font-display text-2xl sm:text-3xl md:text-4xl font-bold text-neutral-900 leading-tight">
+              TON PROBLÈME N’EST PAS FORCÉMENT CE QUE TU MANGES.
             </h2>
+            <p className="font-display text-lg sm:text-xl font-medium text-brand">
+              C’est parfois la façon dont tu le manges.
+            </p>
           </div>
+        </FadeIn>
 
-          {/* Récit immersif */}
-          <div className="bg-white rounded-2xl p-6 sm:p-8 md:p-10 shadow-card border border-neutral-200/80 space-y-6 text-neutral-700 leading-relaxed text-base sm:text-lg">
-            <p>Tu as peut-être déjà essayé de mieux manger.</p>
-            <p>Tu as peut-être supprimé certains aliments.</p>
-            <p>Tu as peut-être essayé des recettes trouvées sur Internet.</p>
-            <p className="font-medium text-neutral-900">
-              Puis la vie quotidienne a repris le dessus.
+        {/* Parcours typique en cartes épurées */}
+        <div className="mt-10 grid grid-cols-1 md:grid-cols-2 gap-6">
+          {/* Bloc Ce que tu essaies */}
+          <FadeIn delay={0.1}>
+            <div className="p-6 rounded-2xl bg-white border border-neutral-200/80 shadow-2xs h-full">
+              <h3 className="text-xs font-bold uppercase tracking-wider text-neutral-400 mb-4">
+                La tentative classique
+              </h3>
+              <ul className="space-y-3">
+                {steps.map((step) => (
+                  <li key={step} className="flex items-center gap-3 text-sm text-neutral-700">
+                    <span className="w-1.5 h-1.5 rounded-full bg-neutral-400 flex-shrink-0" />
+                    <span>{step}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </FadeIn>
+
+          {/* Bloc La réalité du quotidien */}
+          <FadeIn delay={0.2}>
+            <div className="p-6 rounded-2xl bg-white border border-neutral-200/80 shadow-2xs h-full">
+              <h3 className="text-xs font-bold uppercase tracking-wider text-brand mb-4">
+                Puis le quotidien reprend le dessus
+              </h3>
+              <ul className="space-y-2.5">
+                {realities.map((item) => (
+                  <li key={item} className="flex items-center gap-3 text-sm text-neutral-700">
+                    <span className="w-1.5 h-1.5 rounded-full bg-brand flex-shrink-0" />
+                    <span>{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </FadeIn>
+        </div>
+
+        {/* L'impasse et la solution */}
+        <FadeIn delay={0.3}>
+          <div className="mt-8 p-6 sm:p-8 rounded-2xl bg-white border-2 border-neutral-200/80 shadow-sm text-center space-y-4">
+            <p className="font-display text-xl sm:text-2xl font-bold text-neutral-900 italic">
+              « Je ne sais plus quoi manger. »
             </p>
 
-            {/* Piliers du quotidien */}
-            <div className="flex flex-wrap gap-2.5 justify-center sm:justify-start py-2">
-              {obstacles.map((obs) => (
-                <span
-                  key={obs}
-                  className="px-3.5 py-1.5 rounded-lg bg-neutral-100 text-neutral-800 font-semibold text-sm border border-neutral-200"
-                >
-                  {obs}
-                </span>
-              ))}
-            </div>
+            <p className="text-sm sm:text-base text-neutral-700 leading-relaxed max-w-xl mx-auto">
+              Le problème vient parfois de la composition du repas, des portions, du mode de cuisson, des boissons qui l’accompagnent et du manque d’organisation.
+            </p>
 
-            <div className="p-4 rounded-xl bg-amber-500/10 border border-amber-500/20 text-neutral-900 font-serif italic text-lg sm:text-xl text-center">
-              « Je ne sais plus quoi manger. »
-            </div>
-
-            <div className="pt-4 border-t border-neutral-100 space-y-3">
-              <p className="font-bold text-neutral-900 text-lg sm:text-xl text-center sm:text-left">
-                Le problème n’est pas forcément l’aliment.
-              </p>
-              <p className="text-neutral-600">
-                Il peut venir de la façon dont ton repas est composé, de la quantité, de la cuisson, des boissons qui l’accompagnent et de ton organisation.
+            <div className="pt-4 border-t border-neutral-100 max-w-lg mx-auto">
+              <p className="text-base sm:text-lg font-bold text-neutral-900">
+                Tu n’as pas forcément besoin d’un nouveau régime.
+                <br />
+                <span className="text-brand">Tu as besoin d’une méthode que tu peux réellement appliquer dans ta vie.</span>
               </p>
             </div>
           </div>
-        </div>
+        </FadeIn>
       </Container>
     </section>
   );

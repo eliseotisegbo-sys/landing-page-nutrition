@@ -30,6 +30,14 @@ export const guide3dMockup: ImageAsset = {
   priority: true,
 };
 
+export const livre3dDebout: ImageAsset = {
+  src: "/images/livre-3d-debout.jpg",
+  alt: "Livre 3D debout Guide Africain de Nutrition — Édition de référence",
+  width: 900,
+  height: 1200,
+  priority: true,
+};
+
 // ─── Couverture et infographie officielle du guide ───────────
 
 export const guideCover: ImageAsset = {

@@ -1,397 +1,343 @@
-# GUIDE AFRICAIN DE NUTRITION
+# GUIDE PRATIQUE DE NUTRITION AFRICAINE
 
-## HERO — PREMIÈRE IMPRESSION
+## Tu n’as pas besoin d’abandonner le riz, l’igname, le manioc ou le plantain pour mieux manger.
 
-### Tu n’as pas besoin d’abandonner le riz, l’igname, le manioc ou le plantain pour mieux manger.
+**Arrête de croire que mieux manger signifie abandonner la cuisine que tu aimes.**
 
-Apprends simplement à mieux composer ton assiette, à gérer tes portions et à préparer tes repas avec les aliments que tu connais déjà.
+Le vrai changement commence souvent dans la façon dont tu composes ton assiette, dans les portions que tu prends, dans la manière dont tu cuisines et dans l’organisation de tes repas.
 
-**Des recettes locales. Des repères simples. Une méthode pratique pour arrêter d’improviser tes repas.**
+**Apprends à mieux manger avec les aliments que tu connais déjà.**
 
-**[JE DÉCOUVRE LE GUIDE]**
+Découvre une méthode simple, des recettes locales et des repères pratiques pour arrêter d’improviser tes repas.
 
-Petit texte sous le bouton :
+### [J’ORGANISE MIEUX MES REPAS]
 
-**Accès immédiat • Guide numérique pratique**
-
----
-
-## BANDEAU DE CONFIANCE
-
-**ALIMENTS LOCAUX**
-Pensé autour des aliments que l’on trouve facilement dans nos marchés.
-
-**MÉTHODE SIMPLE**
-Des repères visuels pour construire ton assiette sans compliquer ta vie.
-
-**RECETTES PRATIQUES**
-Des idées concrètes pour le petit-déjeuner, le déjeuner, le dîner et les collations.
+**Guide numérique pratique.**
+**Compatible smartphone.**
+**Repères simples.**
 
 ---
 
-# ET SI LE PROBLÈME N’ÉTAIT PAS CE QUE TU MANGES ?
+# TON PROBLÈME N’EST PAS FORCÉMENT CE QUE TU MANGES.
 
-Tu as peut-être déjà essayé de mieux manger.
+## C’est parfois la façon dont tu le manges.
 
-Tu as peut-être supprimé certains aliments.
+Tu veux mieux manger.
+Tu regardes des conseils sur Internet.
+Tu essaies de supprimer certains aliments.
+Tu changes tes habitudes pendant quelques jours.
+Puis le quotidien revient.
+Le travail reprend.
+Les repas en famille reprennent.
+Tu manges au maquis.
+Tu manques de temps.
+Ton budget devient une contrainte.
+Et tu finis par te dire : « Je ne sais plus quoi manger. »
 
-Tu as peut-être essayé des recettes trouvées sur Internet.
+Le problème vient parfois de la composition du repas, des portions, du mode de cuisson, des boissons qui l’accompagnent et du manque d’organisation.
 
-Puis la vie quotidienne a repris le dessus.
-
-Le travail.
-Les repas en famille.
-Le maquis.
-Le manque de temps.
-Le budget.
-Et finalement : « Je ne sais plus quoi manger. »
-
-**Le problème n’est pas forcément l’aliment.**
-
-Il peut venir de la façon dont ton repas est composé, de la quantité, de la cuisson, des boissons qui l’accompagnent et de ton organisation.
-
----
-
-# L’ANCIENNE FAÇON VS LA NOUVELLE
-
-### AVANT
-
-❌ Supprimer les aliments que tu aimes.
-❌ Chercher des recettes compliquées.
-❌ Improviser chaque repas.
-❌ Manger sans repère sur les portions.
-❌ Se retrouver perdu dès qu’on mange dehors.
-
-### AVEC LE GUIDE
-
-✓ Garder les aliments que tu connais.
-✓ Apprendre à mieux composer ton assiette.
-✓ Utiliser des portions faciles à estimer.
-✓ Adapter la cuisson et les accompagnements.
-✓ Savoir quoi faire même au travail, au maquis ou pendant une fête.
-
-**Tu ne changes pas complètement ta cuisine.
-Tu apprends à mieux l’organiser.**
+**Tu n’as pas forcément besoin d’un nouveau régime.**
+**Tu as besoin d’une méthode que tu peux réellement appliquer dans ta vie.**
 
 ---
 
-# UNE MÉTHODE SIMPLE POUR TON ASSIETTE
+# ARRÊTE DE LUTTER CONTRE TA CUISINE.
 
-Pas besoin de peser chaque aliment.
+## APPRENDS À MIEUX L’ORGANISER.
 
-Utilise un repère simple :
+### AVANT.
+❌ Tu supprimes les aliments que tu aimes.
+❌ Tu cherches des recettes compliquées.
+❌ Tu improvises tes repas.
+❌ Tu manges sans repère clair sur les portions.
+❌ Tu te retrouves perdu lorsque tu manges dehors.
 
-### ½ ASSIETTE
+### AVEC LE GUIDE.
+✓ Tu gardes les aliments que tu connais.
+✓ Tu apprends à mieux composer ton assiette.
+✓ Tu utilises des repères simples pour estimer les portions.
+✓ Tu adaptes progressivement la cuisson et les accompagnements.
+✓ Tu sais quoi faire même au travail, au maquis, pendant une fête ou lorsque ta journée ne se passe pas comme prévu.
 
-**Légumes**
-
-Gombo, chou, tomate, carotte, concombre, feuilles vertes, aubergine locale…
-
-### ¼ ASSIETTE
-
-**Protéines**
-
-Poisson, œufs, poulet, niébé, haricots…
-
-### ¼ ASSIETTE
-
-**Féculent**
-
-Igname, manioc préparé, patate douce, plantain, riz, mil, sorgho, fonio…
-
-**L’objectif n’est pas de manger parfait.
-L’objectif est de savoir comment construire un repas plus équilibré.**
+**Tu ne changes pas toute ta cuisine.**
+**Tu changes progressivement ta manière de l’organiser.**
 
 ---
 
-# REGARDE CE QUE TU PEUX DÉJÀ FAIRE AVEC TES ALIMENTS
+# VOICI LE PRINCIPE QUI CHANGE TOUT.
 
-### Riz + légumes + poisson
+## UNE ASSIETTE PLUS SIMPLE À COMPRENDRE.
 
-Un repas familier, simplement mieux composé.
+Pas besoin de peser chaque aliment pour commencer.
+Utilise un repère visuel simple :
 
-### Igname + légumes + poisson
+### ½ ASSIETTE : LÉGUMES
+Gombo, Chou, Tomate, Carotte, Concombre, Feuilles vertes, Aubergine locale...
 
-Pas besoin d’abandonner l’igname.
+### ¼ ASSIETTE : PROTÉINES
+Poisson, Œufs, Poulet, Niébé, Haricots...
 
-### Fonio + gombo + poisson
+### ¼ ASSIETTE : FÉCULENT
+Riz, Igname, Manioc préparé, Patate douce, Plantain, Mil, Sorgho, Fonio...
 
-Une autre manière d’organiser ton assiette.
+**L’objectif n’est pas la perfection.**
+**L’objectif est de savoir comment construire un repas plus équilibré avec ce que tu as déjà.**
 
-### Plantain + haricots + légumes
-
-Des aliments que tu connais déjà, avec une structure plus claire.
-
-### Poulet + légumes + patate douce
-
-Simple, pratique et facile à adapter.
-
-**Le guide t’apprend le principe.
-Les recettes t’aident à l’appliquer.**
+### [JE COMMENCE À MIEUX COMPOSER MON ASSIETTE]
 
 ---
 
-# CE QUE TU VAS APPRENDRE
+# REGARDE TES PLATS AUTREMENT.
 
-## 1. Comprendre ce qui bloque
+## TU PEUX GARDER CE QUE TU AIMES ET FAIRE DE MEILLEURS CHOIX.
 
-Comprendre le rôle des portions, de la composition des repas, des boissons, des fritures et de l’organisation.
+### Riz
+Ajoute davantage de légumes. Ajoute une source de protéines. Adapte la portion de riz.
 
-## 2. Composer ton assiette
+### Igname
+Garde l’igname. Associe-la avec des légumes et une source de protéines. Privilégie une préparation adaptée plutôt que la friture fréquente.
 
-Utiliser des repères simples pour équilibrer tes repas sans avoir besoin d’une balance de cuisine.
+### Plantain
+Tu n’as pas besoin de le supprimer. Apprends à varier sa préparation et à l’associer correctement.
 
-## 3. Mieux utiliser les aliments locaux
+### Fonio
+Utilise-le comme ton féculent du repas. Associe-le avec des légumes et une source de protéines.
 
-Découvrir comment utiliser l’igname, le plantain, le fonio, le gombo, le niébé, les légumes-feuilles, les fruits locaux et bien d’autres aliments.
+### Niébé
+Profite de sa combinaison de protéines végétales et de fibres. Associe-le avec des légumes et adapte le reste du repas.
 
-## 4. Transformer tes habitudes
-
-Apprendre à remplacer progressivement certaines habitudes sans bouleverser toute ta cuisine.
-
-## 5. Préparer des recettes simples
-
-Des recettes pensées pour être accessibles et compatibles avec les aliments disponibles autour de toi.
-
-## 6. Gérer les situations réelles
-
-Que faire quand tu travailles ?
-Quand tu manges au maquis ?
-Quand tu es invité ?
-Quand le budget est limité ?
-Quand ta journée ne se passe pas comme prévu ?
+**Le principe est simple.**
+**Tu gardes tes aliments.**
+**Tu apprends à mieux les associer.**
 
 ---
 
-# CE QUE TU REÇOIS
+# TU VAS ENFIN SAVOIR QUOI FAIRE AVEC TES REPAS.
 
-### 📘 LE GUIDE AFRICAIN DE NUTRITION
+## LE GUIDE TE DONNE UNE MÉTHODE CONCRÈTE.
 
-Un guide pratique pour apprendre à mieux organiser ton alimentation avec les aliments que tu connais déjà.
+### 01. COMPRENDRE CE QUI BLOQUE
+Comprends l’impact des portions, de la composition des repas, des boissons, des fritures et de l’organisation.
 
-À l’intérieur :
+### 02. COMPOSER TON ASSIETTE
+Utilise des repères simples pour construire tes repas sans avoir besoin d’une balance de cuisine.
 
-✓ La méthode de composition de l’assiette
-✓ Les repères sur les portions
-✓ Les aliments locaux et leurs utilisations
-✓ Les transformations intelligentes
-✓ Des recettes pratiques
-✓ Des idées de petits-déjeuners
-✓ Des déjeuners simples
-✓ Des dîners légers
-✓ Des collations
-✓ Des repas familiaux adaptés
-✓ Une liste de courses intelligente
-✓ Des conseils pour les repas au travail et au maquis
-✓ Des repères simples pour bouger davantage
+### 03. MIEUX UTILISER LES ALIMENTS LOCAUX
+Découvre comment mieux utiliser l’igname, le plantain, le fonio, le gombo, le niébé, les légumes-feuilles et les fruits locaux.
 
----
+### 04. TRANSFORMER TES HABITUDES
+Apprends à modifier progressivement certaines habitudes sans bouleverser toute ta cuisine.
 
-# PAS BESOIN DE CUISINER UN REPAS DIFFÉRENT POUR TOUTE LA FAMILLE
+### 05. PASSER AUX RECETTES
+Découvre des préparations simples et adaptées aux aliments disponibles autour de toi.
 
-Tu peux partir du repas que tout le monde mange déjà.
-
-Puis simplement :
-
-**moins d’huile**
-+
-**plus de légumes**
-+
-**un seul féculent principal**
-
-Tu n’as pas besoin de préparer deux cuisines différentes.
-
-**Tu apprends à adapter ton assiette.**
+### 06. GÉRER LA VRAIE VIE
+Sache quoi faire lorsque tu travailles, manges au maquis, es invité, as un budget limité ou lorsque ta journée ne se passe pas comme prévu.
 
 ---
 
-# ET QUAND TU MANGES DEHORS ?
+# DES RECETTES QUE TU PEUX RÉELLEMENT UTILISER.
 
-Le guide ne suppose pas que tu cuisines parfaitement tous les jours.
+## PAS DES REPAS COMPLIQUÉS À REPRODUIRE.
 
-Au maquis, au travail, à une fête ou chez quelqu’un :
+Tu découvriras notamment des idées autour du fonio, du gombo, du poisson, de l’igname, de l’attiéké, du niébé, de la patate douce, des haricots et des légumes locaux.
 
-**commence par les légumes → choisis une protéine → prends un seul féculent → évite le resservi automatique.**
+### Petit-déjeuner
+- Bouillie de fonio au lait de coco léger
+- Omelette aux légumes
+- Autres idées simples à adapter selon les aliments disponibles
 
-L’objectif est de conserver une structure même lorsque ton environnement change.
+### Déjeuner
+- Fonio, sauce gombo et poisson grillé
+- Foutou d’igname et sauce claire aux légumes
+- Attiéké, poulet grillé et légumes
+- Niébé au poisson
+- Poulet aux légumes et patate douce
 
----
+### Dîner
+- Sauce gombo légère et manioc bouilli
+- Soupe de légumes locaux
+- Haricots aux légumes
 
-# ET TON BUDGET ?
+### Collation
+- Fruit entier de saison
+- Boisson maison peu sucrée selon les recettes proposées
 
-Mieux manger ne signifie pas forcément acheter des produits coûteux.
-
-Le guide t’encourage à utiliser :
-
-**les légumes de saison**
-**les féculents locaux disponibles**
-**les œufs**
-**le niébé**
-**les haricots**
-**le poisson selon ton budget**
-**les fruits de saison**
-
-Adapte ta semaine à ce que ton marché te permet réellement d’acheter.
-
----
-
-# COMMENT ÇA MARCHE ?
-
-### ÉTAPE 1
-
-**Découvre le principe**
-
-Comprends ce qui rend un repas plus équilibré.
-
-### ÉTAPE 2
-
-**Observe ton assiette**
-
-Regarde ce que tu manges déjà.
-
-### ÉTAPE 3
-
-**Fais de petits changements**
-
-Ajuste progressivement portions, cuisson et accompagnements.
-
-### ÉTAPE 4
-
-**Passe aux recettes**
-
-Utilise les recettes du guide pour varier tes repas.
-
-### ÉTAPE 5
-
-**Organise ta semaine**
-
-Utilise les repères et la liste de courses pour réduire l’improvisation.
-
-### ÉTAPE 6
-
-**Continue à ton rythme**
-
-L’objectif est de devenir progressivement autonome.
+**Tu ne manques plus d’idées.**
+**Tu sais quoi préparer et comment organiser ton assiette.**
 
 ---
 
-# CE N’EST PAS UN RÉGIME COMPLIQUÉ
+# TU MANGES DEHORS ?
 
-Ce guide ne te demande pas de devenir une autre personne.
+## LE GUIDE TE DONNE AUSSI UN REPÈRE.
 
-Il te demande de regarder autrement les repas que tu manges déjà.
+Tu ne cuisines pas tous les jours. Tu vas parfois au maquis. Tu manges parfois au travail. Tu es parfois invité. Tu ne contrôles pas toujours le menu.
 
-**Tu gardes ta cuisine.
-Tu gardes tes aliments.
-Tu changes progressivement la façon de les associer.**
+**Ce n’est pas une raison pour abandonner tes efforts.**
+
+Apprends à appliquer une structure simple :
+1. Choisis d’abord les légumes.
+2. Ajoute une source de protéines.
+3. Choisis un seul féculent principal.
+4. Évite le resservi automatique.
+
+**Le but est de savoir quoi faire même lorsque les conditions changent.**
 
 ---
 
-# À QUI S’ADRESSE CE GUIDE ?
+# ET SI TON BUDGET EST SERRÉ ?
 
-### Ce guide est particulièrement adapté si :
+## MIEUX MANGER NE SIGNIFIE PAS FORCÉMENT ACHETER DES PRODUITS COÛTEUX.
+
+Le guide privilégie les aliments disponibles localement et les alternatives selon la saison et le budget :
+- Les légumes de saison
+- Les féculents locaux disponibles
+- Les œufs
+- Le niébé
+- Les haricots
+- Le poisson selon ton budget
+- Les fruits de saison
+
+**Tu adaptes ton alimentation à ton marché et à ta réalité.**
+
+---
+
+# TU N’AS PAS BESOIN DE PRÉPARER UN AUTRE REPAS POUR TA FAMILLE.
+
+## LE REPAS FAMILIAL PEUT ÊTRE ADAPTÉ.
+
+Commence avec le repas que tout le monde mange déjà :
+- Réduis progressivement l’huile.
+- Ajoute davantage de légumes lorsque cela est possible.
+- Garde un seul féculent principal dans ton assiette.
+
+**Tu n’as pas besoin de cuisiner deux repas différents.**
+**Tu apprends à mieux composer ta propre assiette.**
+
+---
+
+# FEUILLETTE LE GUIDE AVANT DE L’ACHETER.
+
+## REGARDE CE QUE TU VAS RÉELLEMENT RECEVOIR.
+
+Découvre la méthode de l’assiette. Découvre les fiches sur les aliments locaux. Découvre les recettes. Découvre les transformations intelligentes. Découvre les conseils pour les repas au travail et au maquis. Découvre la liste de courses.
+
+**Tu ne regardes pas simplement une couverture.**
+**Tu vois la méthode que tu vas utiliser.**
+
+### [JE FEUILLETTE LE GUIDE ET JE COMMENCE]
+
+---
+
+# TOUT EST PENSÉ POUR ÊTRE SIMPLE.
+
+## VOICI COMMENT UTILISER LE GUIDE.
+
+- **ÉTAPE 1 : OBSERVE** — Regarde comment tu manges aujourd’hui.
+- **ÉTAPE 2 : COMPRENDS** — Identifie ce que tu peux améliorer.
+- **ÉTAPE 3 : COMPOSE** — Construis ton assiette avec les bons repères.
+- **ÉTAPE 4 : CUISINE** — Adapte progressivement tes modes de préparation.
+- **ÉTAPE 5 : ORGANISE** — Utilise les recettes et la liste de courses pour réduire l’improvisation.
+- **ÉTAPE 6 : CONTINUE** — Répète les bonnes habitudes à ton rythme.
+
+**Commence avec ton prochain repas.**
+
+---
+
+# CE GUIDE EST FAIT POUR TOI SI :
 
 ✓ Tu veux mieux organiser ton alimentation.
-
 ✓ Tu veux continuer à manger des aliments africains.
-
 ✓ Tu ne sais pas toujours quelles portions prendre.
-
-✓ Tu manques d’idées pour tes repas.
-
+✓ Tu manques d’idées pour préparer tes repas.
 ✓ Tu veux cuisiner plus simplement.
-
-✓ Tu veux mieux gérer tes repas quand tu manges dehors.
-
+✓ Tu manges régulièrement dehors.
 ✓ Tu veux une méthode pratique plutôt qu’une longue théorie.
 
----
-
-# CE GUIDE N’EST PAS
-
-❌ Une prescription médicale.
-
-❌ Un traitement du diabète ou de l’hypertension.
-
-❌ Une promesse de perte de poids garantie.
-
-❌ Un régime basé sur des aliments importés ou difficiles à trouver.
-
-**C’est un guide pratique général pour mieux organiser son alimentation.**
+**Tu n’as pas besoin d’être parfaite.**
+**Tu as besoin d’une méthode que tu peux appliquer.**
 
 ---
 
-# CE QUE TU PEUX ATTENDRE DU GUIDE
+# CE GUIDE N’EST PAS UN MIRACLE.
 
-À la fin, ton objectif n’est pas de mémoriser une longue liste d’interdictions.
+## ET C’EST JUSTEMENT POURQUOI IL EST PENSÉ POUR LA VRAIE VIE.
 
-Ton objectif est de pouvoir regarder ce que tu as devant toi et te demander :
+Ce guide ne remplace pas un médecin ou un diététicien.
+Il ne traite pas le diabète.
+Il ne traite pas l’hypertension.
+Il ne garantit pas un nombre précis de kilos perdus.
+Il ne remplace pas un accompagnement professionnel lorsque celui-ci est nécessaire.
 
-**« Comment puis-je mieux composer ce repas avec ce que j’ai déjà ? »**
-
-C’est cette autonomie que le guide cherche à développer.
-
----
-
-# OFFRE
-
-## GUIDE AFRICAIN DE NUTRITION
-
-### Prix de lancement : 4 900 FCFA
-
-Tu reçois immédiatement ton guide numérique et tu peux commencer à appliquer la méthode dès aujourd’hui.
-
-**[JE VEUX LE GUIDE]**
-
-Microcopie :
-
-**Paiement sécurisé via Chariow • Accès numérique immédiat**
+**C’est un guide pratique général pour mieux organiser ton alimentation.**
 
 ---
 
-# FAQ
+# ARRÊTE D’IMPROVISER TES REPAS.
+
+## COMMENCE À LES ORGANISER.
+
+Tu n’as pas besoin d’attendre lundi.
+Tu n’as pas besoin de supprimer toute ta cuisine.
+Tu n’as pas besoin de chercher encore une nouvelle méthode compliquée.
+
+**Commence avec les aliments que tu as déjà.**
+**Commence avec ton prochain repas.**
+
+### [J’ORGANISE MIEUX MES REPAS AUJOURD’HUI]
+
+**Guide Africain de Nutrition — 4 900 FCFA**
+Guide numérique pratique • Compatible smartphone • Paiement et commande via Chariow.
+
+---
+
+# QUESTIONS FRÉQUENTES
 
 ### Dois-je arrêter de manger du riz ?
+Non. Le guide ne présente pas le riz comme un aliment interdit. Il t’apprend surtout à mieux gérer sa place dans l’assiette et à mieux l’associer aux autres éléments du repas.
 
-Non. Le guide ne présente pas le riz comme un aliment interdit. Il t’apprend surtout à gérer la portion, les associations et la composition globale du repas.
-
-### Dois-je abandonner l’igname, le manioc ou le plantain ?
-
-Non. Le principe du guide est justement d’apprendre à mieux utiliser les aliments locaux que tu connais déjà.
+### Dois-je arrêter l’igname, le manioc ou le plantain ?
+Non. Le principe du guide est justement d’apprendre à mieux utiliser les aliments que tu connais déjà.
 
 ### Dois-je peser mes aliments ?
+Non. Le guide propose des repères visuels comme la paume, le poing et la poignée pour estimer les portions.
 
-Non. Le guide utilise des repères simples comme la paume, le poing et la poignée pour estimer les portions.
+### Est-ce un traitement médical ?
+Non. C’est un guide général d’organisation alimentaire.
 
-### Est-ce un traitement contre le diabète ou l’hypertension ?
+### Et si je mange au maquis ?
+Le guide prévoit justement des situations où tu manges à l’extérieur, au travail, pendant une fête ou chez quelqu’un.
 
-Non. Le guide ne remplace ni un médecin ni un diététicien et ne traite aucune maladie.
-
-### Est-ce que je dois préparer un repas différent pour ma famille ?
-
-Non. Le guide montre comment adapter le repas familial plutôt que de préparer systématiquement un plat séparé.
-
-### Et si je mange souvent dehors ?
-
-Le guide contient des repères pour les repas au travail, au maquis, pendant les fêtes et dans les situations où tu ne contrôles pas le menu.
+### Est-ce compliqué ?
+Non. L’objectif est au contraire de remplacer l’improvisation par une méthode simple que tu peux répéter.
 
 ---
 
-# CTA FINAL
+# TU SAIS MAINTENANT CE QUI TE RESTE À FAIRE.
 
-## Tu n’as pas besoin de changer toute ta cuisine.
+## TU PEUX CONTINUER À MANGER CE QUE TU CONNAIS.
 
-Tu as besoin d’une méthode simple pour mieux organiser ce que tu manges déjà.
+Tu dois simplement apprendre à mieux le composer.
+Tu dois apprendre à mieux gérer les portions.
+Tu dois apprendre à mieux organiser tes repas.
+Tu dois apprendre à faire des choix plus simples dans la vie quotidienne.
 
-**Découvre le Guide Africain de Nutrition et commence à composer tes repas autrement.**
+**Et tu peux commencer aujourd’hui.**
 
-### [JE DÉCOUVRE LE GUIDE — 4 900 FCFA]
+### [J’ORGANISE MIEUX MES REPAS AUJOURD’HUI — 4 900 FCFA]
 
-**Commence simplement.
-Un repas à la fois.**
+- Guide numérique pratique
+- Une méthode simple
+- Des aliments que tu connais
+- Des recettes que tu peux utiliser
+
+**Commence simplement. Un repas à la fois.**
 
 ---
 
-### NOTE DE SÉCURITÉ
+## NOTE DE SÉCURITÉ
 
 Ce guide est un outil général d’information et d’organisation alimentaire. Il ne remplace pas un avis médical ou diététique personnalisé. Les personnes ayant une maladie, prenant un traitement, étant enceintes ou allaitantes, ou ayant des besoins alimentaires particuliers doivent demander un avis professionnel adapté.
+
+© 2026 Guide Africain de Nutrition. Tous droits réservés.

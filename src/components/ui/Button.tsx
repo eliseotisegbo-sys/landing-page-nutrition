@@ -35,16 +35,17 @@ type ButtonProps = ButtonAsButton | ButtonAsLink;
 
 const variantStyles: Record<ButtonVariant, string> = {
   primary: [
-    "bg-brand text-white",
-    "hover:bg-brand-dark",
-    "shadow-md hover:shadow-lg",
-    "transition-colors duration-200",
+    "bg-brand !text-white border-2 border-brand",
+    "hover:!bg-white hover:!text-brand hover:!border-brand",
+    "active:!bg-neutral-50 active:!text-brand",
+    "shadow-md hover:shadow-xl",
+    "transition-all duration-300 ease-in-out",
   ].join(" "),
   secondary: [
-    "bg-white text-brand border-2 border-brand",
-    "hover:bg-brand-light/40",
-    "shadow-sm hover:shadow",
-    "transition-colors duration-200",
+    "bg-white !text-brand border-2 border-brand",
+    "hover:!bg-brand hover:!text-white hover:!border-brand",
+    "shadow-sm hover:shadow-md",
+    "transition-all duration-300 ease-in-out",
   ].join(" "),
   ghost: [
     "bg-transparent text-brand underline underline-offset-4",
@@ -71,12 +72,13 @@ export function Button({
   variant = "primary",
   size = "md",
   className,
-  pulse = false,
+  pulse = true,
   children,
   ...props
 }: ButtonProps) {
   const shouldReduceMotion = useReducedMotion();
-  const classes = cn(baseStyles, variantStyles[variant], sizeStyles[size], className);
+  const blinkClass = pulse && variant === "primary" && !shouldReduceMotion ? "animate-cta-blink" : "";
+  const classes = cn(baseStyles, variantStyles[variant], sizeStyles[size], blinkClass, className);
 
   const motionProps = shouldReduceMotion
     ? {}

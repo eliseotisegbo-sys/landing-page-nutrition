@@ -45,7 +45,7 @@ export function StickyMobileCta() {
               className="flex-1 font-bold text-sm py-2.5 shadow-sm"
               aria-label="Acheter le guide"
             >
-              Je veux le guide
+              J’organise mes repas
             </Button>
           </div>
         </motion.div>

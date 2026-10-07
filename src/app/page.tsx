@@ -1,16 +1,17 @@
 import type { Metadata } from "next";
 import { InAppBrowserGuard } from "@/components/features/InAppBrowserGuard";
 import { ScrollProgress } from "@/components/ui/ScrollProgress";
+import { Navbar } from "@/components/sections/Navbar";
 import { Hero } from "@/components/sections/Hero";
 import { TrustBanner } from "@/components/sections/TrustBanner";
 import { ProblemSection } from "@/components/sections/ProblemSection";
 import { ComparisonSection } from "@/components/sections/ComparisonSection";
 import { PlateMethodSection } from "@/components/sections/PlateMethodSection";
 import { DishesCarousel } from "@/components/sections/DishesCarousel";
-import { BookPreviewSection } from "@/components/sections/BookPreviewSection";
+import { RecipesSection } from "@/components/sections/RecipesSection";
 import { LearnSection } from "@/components/sections/LearnSection";
-import { WhatYouGetSection } from "@/components/sections/WhatYouGetSection";
 import { DailyLifeSection } from "@/components/sections/DailyLifeSection";
+import { BookPreviewSection } from "@/components/sections/BookPreviewSection";
 import { HowItWorksSection } from "@/components/sections/HowItWorksSection";
 import { WhoIsItForSection } from "@/components/sections/WhoIsItForSection";
 import { OfferSection } from "@/components/sections/OfferSection";
@@ -21,9 +22,9 @@ import { StickyMobileCta } from "@/components/sections/StickyMobileCta";
 import { PRODUCT_NAME } from "@/lib/config";
 
 export const metadata: Metadata = {
-  title: `${PRODUCT_NAME} — Manger mieux avec les aliments africains`,
+  title: `${PRODUCT_NAME} — Manger mieux sans abandonner sa cuisine`,
   description:
-    "Tu n’as pas besoin d’abandonner le riz, l’igname, le manioc ou le plantain. Une méthode simple pour composer ton assiette et équilibrer tes repas au quotidien.",
+    "Tu n’as pas besoin d’abandonner le riz, l’igname, le manioc ou le plantain. Une méthode simple, des recettes locales et des repères pratiques pour arrêter d’improviser tes repas.",
 };
 
 export default function HomePage() {
@@ -35,50 +36,53 @@ export default function HomePage() {
       {/* Détection in-app browser prudente (TikTok, Instagram, Facebook) */}
       <InAppBrowserGuard />
 
+      {/* Header / Navbar inspiré du design de référence */}
+      <Navbar />
+
       <main className="min-h-screen">
-        {/* 1. Hero — Première impression avec la couverture 3D du guide et portrait */}
+        {/* 1. Hero — Accroche principale, fond culinaire et livre 3D debout dynamique */}
         <Hero />
 
-        {/* 2. Bandeau de confiance */}
+        {/* 2. Bandeau de confiance (4 piliers) */}
         <TrustBanner />
 
-        {/* 3. Et si le problème n'était pas ce que tu manges ? */}
+        {/* 3. Ton problème n'est pas forcément ce que tu manges */}
         <ProblemSection />
 
-        {/* 4. L'ancienne façon vs la nouvelle (avec photos réelles avant / après) */}
+        {/* 4. Arrête de lutter contre ta cuisine (Avant vs Avec le guide avec photos réelles) */}
         <ComparisonSection />
 
-        {/* 5. Une méthode simple pour ton assiette */}
+        {/* 5. Voici le principe qui change tout (L'assiette 1/2 - 1/4 - 1/4) */}
         <PlateMethodSection />
 
-        {/* 6. Regarde ce que tu peux déjà faire avec tes aliments (Carrousel tactile) */}
+        {/* 6. Regarde tes plats autrement (Carrousel dynamique 1s avec pause) */}
         <DishesCarousel />
 
-        {/* 7. Feuillette les pages du guide (Aperçu horizontal des fiches) */}
-        <BookPreviewSection />
+        {/* 7. Des recettes que tu peux réellement utiliser (Filtres & fiches concrètes) */}
+        <RecipesSection />
 
-        {/* 8. Ce que tu vas apprendre */}
+        {/* 8. Tu vas enfin savoir quoi faire avec tes repas (Les 6 modules concrets) */}
         <LearnSection />
 
-        {/* 9. Ce que tu reçois */}
-        <WhatYouGetSection />
-
-        {/* 10. Vie quotidienne : Famille, Manger dehors & Budget */}
+        {/* 9. La vraie vie : Maquis/Dehors, Budget serré & Famille */}
         <DailyLifeSection />
 
-        {/* 11. Comment ça marche & Ce n'est pas un régime compliqué */}
+        {/* 10. Feuillette le guide avant de l'acheter (Aperçu du livre 3D et fiches) */}
+        <BookPreviewSection />
+
+        {/* 11. Tout est pensé pour être simple (6 étapes : Observe -> Continue) */}
         <HowItWorksSection />
 
-        {/* 12. À qui s'adresse ce guide & Ce qu'il n'est pas */}
+        {/* 12. Ce guide est fait pour toi si... / Ce guide n'est pas un miracle */}
         <WhoIsItForSection />
 
-        {/* 13. Offre de lancement 4 900 FCFA avec livre 3D */}
+        {/* 13. Offre officielle 4 900 FCFA avec livre 3D */}
         <OfferSection />
 
-        {/* 14. Foire aux questions (FAQ accordéon animé) */}
+        {/* 14. Questions fréquentes (FAQ accordéon) */}
         <FaqSection />
 
-        {/* 15. CTA final */}
+        {/* 15. CTA Final : Tu sais maintenant ce qui te reste à faire */}
         <FinalCtaSection />
 
         {/* 16. Footer & Note de sécurité */}
